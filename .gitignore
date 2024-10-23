@@ -5,3 +5,7 @@ json.o
 libjsonparser.a
 libjsonparser.so
 test_json
+cmake-build-debug/
+CMakeFiles
+*.a
+cmake_install.cmake
